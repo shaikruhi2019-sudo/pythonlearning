@@ -1,4 +1,4 @@
-str2='welcome to
+str2="welcome to
 GLEC
-HYD-01'
+HYD-01"
 print(str2)
